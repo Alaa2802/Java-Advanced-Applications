@@ -48,4 +48,12 @@ A full CRUD application for managing student records.
 A collection of visual applications showcasing UI capabilities.
 - **Projects:**
   - **Clock Animation:** Real-time analog clock rendering.
-  - **
+  - **Ball Physics:** Interactive animation handling collision and movement boundaries.
+  - **Color Changer:** Event-driven UI controls.
+    
+### 🧬 6. Traveling Salesman Solver (AI & Optimization)
+**Location:** `M6_Optimization_TSP`
+An implementation of **Genetic Algorithms (GA)** to solve the NP-Hard Traveling Salesman Problem.
+- **Algorithm:** Uses Cycle Crossover, Mutation mechanics, and Elitism to evolve solutions.
+- **Optimization:** Includes a **2-opt Local Search** heuristic bonus for significant route refinement.
+- **Performance:** Successfully optimizes routes for complex datasets (e.g., att48) with high efficiency.    
